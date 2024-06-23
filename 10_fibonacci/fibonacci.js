@@ -1,6 +1,5 @@
 const fibonacci = function(number) {
 
-
     const array = [1 , 1];
    
     for (let index = 1; index <= +number; index++) {
